@@ -1,0 +1,59 @@
+body{
+
+    text-align: center;
+    background-color:grey;
+}
+
+h3{
+    color: aliceblue;
+    
+}
+
+h1{
+    color: #63aac0;
+}
+.box{
+
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+    border: .2rem solid black;
+    border-radius: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+   
+
+
+
+}
+
+.box-container{
+
+    display: flex;
+    justify-content: center;
+}
+
+.Red{
+    background-color: #d95980;
+}
+
+.Cyan  {
+    background-color: #63aac0;
+}
+
+.Orange{
+    background-color: #f99b45;
+}
+
+.Blue {
+    background-color: #819ff9;
+}
+
+.flash{
+    background-color: white;
+}
+
+
+.userFlash{
+    background-color: greenyellow;
+}
